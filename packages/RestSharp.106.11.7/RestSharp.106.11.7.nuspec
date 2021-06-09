@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RestSharp</id>
+    <version>106.11.7</version>
+    <title>RestSharp</title>
+    <authors>John Sheehan, Andrew Young, Alexey Zimarev and RestSharp community</authors>
+    <owners>John Sheehan, Andrew Young, Alexey Zimarev and RestSharp community</owners>
+    <licenseUrl>https://www.nuget.org/packages/RestSharp/106.11.7/license</licenseUrl>
+    <projectUrl>http://restsharp.org/</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/restsharp/106.11.7/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple REST and HTTP API Client</description>
+    <summary />
+    <releaseNotes>For full release notes see https://github.com/restsharp/RestSharp/blob/master/releasenotes.md</releaseNotes>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5.2" />
+      <group targetFramework="Unsupported0.0" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Web" targetFramework=".NETFramework4.5.2" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
