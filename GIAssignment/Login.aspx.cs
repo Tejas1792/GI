@@ -102,7 +102,7 @@ namespace GIAssignment
             }
             else
             {
-                Session.Abandon();
+                //Session.Abandon();
                 CheckNoinDB();
             }
             
